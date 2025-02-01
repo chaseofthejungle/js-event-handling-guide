@@ -1,16 +1,17 @@
 # JavaScript Event Handling Guide
 This guide will contain information on event handling functions of the following categories:  
-* Animating
-* DOM Mutating
-* Dragging and Dropping
-* Focusing
-* Form Handling
-* Key Pressing
-* Media Handling
-* Media Query Handling
-* Miscellaneous Event Handling
-* Mobile Touching
-* Page Visibility
-* Selecting Items
-* Transitioning
-* Window Handling
+  
+## 1. Animating
+## 2. DOM Mutating
+## 3. Dragging and Dropping
+## 4. Focusing
+## 5. Form Handling
+## 6. Key Pressing
+## 7. Media Handling
+## 8. Media Query Handling
+## 9. Miscellaneous Event Handling
+## 10. Mobile Touching
+## 11. Page Visibility
+## 12. Selecting Items
+## 13. Transitioning
+## 14. Window Handling
