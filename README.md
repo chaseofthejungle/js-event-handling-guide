@@ -16,6 +16,7 @@
 12. [Selecting Items](#selecting-items)
 13. [Transitioning](#transitioning)
 14. [Window Handling](#window-handling)
+15. [Supplemental Resource](#supplemental)
   
 <hr />
 
@@ -33,3 +34,8 @@
 ## 12. <a name="selecting-items">Selecting Items</a>
 ## 13. <a name="transitioning">Transitioning</a>
 ## 14. <a name="window-handling">Window Handling</a>
+## 15. <a name="supplemental">Supplemental Resource</a>
+  
+See also: [JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)
+  
+<hr />
