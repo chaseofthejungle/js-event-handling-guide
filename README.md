@@ -36,7 +36,8 @@
 ## 14. <a name="window-handling">Window Handling</a>
 ## 15. <a name="supplemental">Supplemental Resources</a>
 
-* [Intro to MERN and MEAN Stack Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack)  
-* [JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)
+* *[Intro to MERN and MEAN Stack Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack)*
+* *[JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)*
+* *[Node.js JavaScript Runtime Environment Official Website](https://nodejs.org/en)*
   
 <hr />
