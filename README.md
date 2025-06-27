@@ -1,6 +1,6 @@
 # JavaScript Event Handling Guide
   
-#### Table of Contents (this guide will contain information on event handling functions of the following categories):
+#### Table of Contents:
   
 1. [Animating](#animating)
 2. [DOM Mutating](#dom-mutating)
@@ -41,3 +41,5 @@
 * *[Node.js JavaScript Runtime Environment Official Website](https://nodejs.org/en)*
   
 <hr />
+
+**TODO:** Fill in all of the sections with initial information.
