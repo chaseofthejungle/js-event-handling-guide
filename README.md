@@ -1,6 +1,6 @@
-# JavaScript Event Handling Guide
+# JavaScript Event Handling Properties Guide
   
-#### Table of Contents:
+#### Table of Contents
   
 1. [Animating](#animating)
 2. [DOM Mutating](#dom-mutating)
@@ -21,7 +21,21 @@
 <hr />
 
 ## 1. <a name="animating">Animating</a>
+
+* **onanimationstart:** Runs when a CSS animation begins.
+* **onanimationiteration:** Runs when a CSS animation is finished its *specific iteration*.
+* **onanimationend:** Runs when a CSS animation is finished its cycle/active period.
+  
+<hr />
+  
 ## 2. <a name="dom-mutating">DOM Mutating</a>
+  
+* **onDOMNodeInserted:** Runs when a new node is added to the DOM.  
+* **onDOMNodeRemoved:** Runs when a new node has been removed from the DOM.  
+* **onDOMSubtreeModified:** Runs when a part of the DOM has been changed/edited.  
+  
+<hr />
+  
 ## 3. <a name="dragging-and-dropping">Dragging and Dropping</a>
 ## 4. <a name="focusing">Focusing</a>
 ## 5. <a name="form-handling">Form Handling</a>
