@@ -37,17 +37,77 @@
 <hr />
   
 ## 3. <a name="dragging-and-dropping">Dragging and Dropping</a>
+  
+(TODO)
+  
+<hr />
+
 ## 4. <a name="focusing">Focusing</a>
+
+(TODO)
+
+<hr />
+
 ## 5. <a name="form-handling">Form Handling</a>
+
+(TODO)
+
+<hr />
+
 ## 6. <a name="key-pressing">Key Pressing</a>
+
+(TODO)
+
+<hr />
+
 ## 7. <a name="media-handling">Media Handling</a>
+
+(TODO)
+
+<hr />
+
 ## 8. <a name="media-query-handling">Media Query Handling</a>
+
+(TODO)
+
+<hr />
+
 ## 9. <a name="miscellaneous-event-handling">Miscellaneous Event Handling</a>
+
+(TODO)
+
+<hr />
+
 ## 10. <a name="mobile-touching">Mobile Touching</a>
+
+(TODO)
+
+<hr />
+
 ## 11. <a name="page-visibility">Page Visibility</a>
+
+(TODO)
+
+<hr />
+
 ## 12. <a name="selecting-items">Selecting Items</a>
+
+(TODO)
+
+<hr />
+
 ## 13. <a name="transitioning">Transitioning</a>
+
+(TODO)
+
+<hr />
+
 ## 14. <a name="window-handling">Window Handling</a>
+
+(TODO)
+
+<hr />
+
 ## 15. <a name="supplemental">Supplemental Resources</a>
 
 * *[Intro to MERN and MEAN Stack Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack)*
@@ -56,4 +116,4 @@
   
 <hr />
 
-**TODO:** Fill in all of the sections with initial information.
+**TODO:** Fill in sections 3 through 14 with initial information.
