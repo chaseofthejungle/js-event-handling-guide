@@ -38,7 +38,11 @@
   
 ## 3. <a name="dragging-and-dropping">Dragging and Dropping</a>
   
-(TODO)
+* **ondrag:** Continuously runs while an element is dragged.
+* **ondragstart:** Runs when an element begins being dragged.
+* **ondragend:** Runs when the dragging of an element is finished.
+* **ondragover:** Runs when an element is dragged over a target/destination where it might be dropped.
+* **ondrop:** Runs when an element is dropped onto a target/destination after being dragged.
   
 <hr />
 
@@ -116,4 +120,4 @@
   
 <hr />
 
-**TODO:** Fill in sections 3 through 14 with initial information.
+**TODO:** Fill in sections 4 through 14 with initial information.
