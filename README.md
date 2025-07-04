@@ -47,14 +47,21 @@
 <hr />
 
 ## 4. <a name="focusing">Focusing</a>
-
-(TODO)
-
+  
+* **onfocus:** Runs when focus is placed upon an input field.  
+* **onblur:** Runs when focus is removed from an input field.  
+* **onfocusin:** Same as *onfocus*, but permits event delegeation by bubbling up from an element.  
+* **onfocusout:** Same as *onblur*, but also bubbles up from an element.
+  
 <hr />
 
 ## 5. <a name="form-handling">Form Handling</a>
 
-(TODO)
+* **onfocus:** Runs when focus is placed upon an input field.  
+* **onblur:** Runs when focus is removed from an input field.  
+* **oninput:** Runs continuously while a user types input into a field.
+* **onchange:** Runs when the input value of an element is modified.
+* **onsubmit:** Runs upon user submission of a form.
 
 <hr />
 
