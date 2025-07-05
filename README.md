@@ -66,9 +66,11 @@
 <hr />
 
 ## 6. <a name="key-pressing">Key Pressing</a>
-
-(TODO)
-
+  
+* **onkeypress:** Runs when a key is pressed and held down *(note: this feature is deprecated in contemporary web browsers)*.
+* **onkeyup:** Runs when a key that was pressed has been released.
+* **onkeydown:** Runs when a key is pressed.
+  
 <hr />
 
 ## 7. <a name="media-handling">Media Handling</a>
@@ -127,4 +129,4 @@
   
 <hr />
 
-**TODO:** Fill in sections 4 through 14 with initial information.
+**TODO:** Fill in sections 7 through 14 with initial information.
