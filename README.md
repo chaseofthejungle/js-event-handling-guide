@@ -78,7 +78,7 @@
 * **onended:** Runs when the media is finished playing.
 * **onpause:** Runs when playing of the media is paused.
 
-*(Note: **matchMedia** is an event that can be used for responsive design in media querying. It detects when a media query is modified or matched (a callback is sent when a listener is triggered).*
+*(Note: **matchMedia** is an event that can be used for responsive design in media querying. It detects when a media query is modified or matched, as a callback is sent when a listener is triggered.)*
 
 <hr />
 
@@ -95,9 +95,10 @@
 <hr />
 
 ## 10. <a name="page-visibility">Page Visibility</a>
-
-(TODO)
-
+  
+* **document.hidden:** Evaluates to true if a page is hidden/invisible.
+* **onvisibilitychange:** Runs when the visibility state of a page is modified (such as when a user moves to a different web browser tab).
+  
 <hr />
 
 ## 11. <a name="selecting-items">Selecting Items</a>
@@ -126,4 +127,4 @@
   
 <hr />
 
-**TODO:** Fill in sections 8 through 13 with initial information.
+**TODO:** Fill in sections 8, 9, 11, 12, and 13 with initial information.
