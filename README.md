@@ -1,5 +1,7 @@
 # JavaScript Event Handling Properties Guide
   
+**Description/Overview:** JavaScript (JS) events are signals that are triggered inside of web browsers, as alerts of web browser modifications and/or the environments of operating systems. The Document Object Model (DOM) properties of event handlers enable functions to be assigned to events, which are ran when such events occur for specified elements. 
+  
 #### Table of Contents
   
 1. [Animating](#animating)
