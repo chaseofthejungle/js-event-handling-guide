@@ -109,8 +109,10 @@
 
 ## 12. <a name="transitioning">Transitioning</a>
 
-(TODO)
-
+* **ontransitionstart:** Runs when a CSS transition begins.
+* **ontransitionend:** Runs when a CSS transition is over.
+* **ontransitioncancel:** Runs when a CSS transition is cancelled.
+  
 <hr />
 
 ## 13. <a name="window-handling">Window Handling</a>
@@ -127,4 +129,4 @@
   
 <hr />
 
-**TODO:** Fill in sections 8, 9, 11, 12, and 13 with initial information.
+**TODO:** Fill in sections 8, 9, 11, and 13 with initial information.
