@@ -105,8 +105,9 @@
 
 ## 11. <a name="selecting-items">Selecting Items</a>
 
-(TODO)
-
+* **onselect:** Runs when a user selects text from within a textarea or input element. 
+* **onselectionchange:** Runs when a user has a new selection (such as text selection).
+  
 <hr />
 
 ## 12. <a name="transitioning">Transitioning</a>
@@ -131,4 +132,4 @@
   
 <hr />
 
-**TODO:** Fill in sections 8, 9, 11, and 13 with initial information.
+**TODO:** Fill in sections 8, 9, and 13 with initial information.
