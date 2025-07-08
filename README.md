@@ -11,12 +11,12 @@
 5. [Form Handling](#form-handling)
 6. [Key Pressing](#key-pressing)
 7. [Media Handling](#media-handling)
-8. [Miscellaneous Event Handling](#miscellaneous-event-handling)
-9. [Mobile Touching](#mobile-touching)
-10. [Page Visibility](#page-visibility)
-11. [Selecting Items](#selecting-items)
-12. [Transitioning](#transitioning)
-13. [Window Handling](#window-handling)
+8. [Mobile Touching](#mobile-touching)
+9. [Page Visibility](#page-visibility)
+10. [Selecting Items](#selecting-items)
+11. [Transitioning](#transitioning)
+12. [Window Handling](#window-handling)
+13. [Miscellaneous Event Handling](#miscellaneous-event-handling)
 14. [Supplemental Resources](#supplemental)
   
 <hr />
@@ -81,16 +81,10 @@
 * **onpause:** Runs when playing of the media is paused.
 
 *(Note: **matchMedia** is an event that can be used for responsive design in media querying. It detects when a media query is modified or matched, as a callback is sent when a listener is triggered.)*
-
+  
 <hr />
 
-## 8. <a name="miscellaneous-event-handling">Miscellaneous Event Handling</a>
-
-(TODO)
-
-<hr />
-
-## 9. <a name="mobile-touching">Mobile Touching</a>
+## 8. <a name="mobile-touching">Mobile Touching</a>
   
 * **ontouchstart:** Runs if a touch point is placed on a touch surface.
 * **ontouchmove:** Runs if a touch point is dragged across a touch surface.
@@ -99,21 +93,21 @@
   
 <hr />
 
-## 10. <a name="page-visibility">Page Visibility</a>
+## 9. <a name="page-visibility">Page Visibility</a>
   
 * **document.hidden:** Evaluates to true if a page is hidden/invisible.
 * **onvisibilitychange:** Runs when the visibility state of a page is modified (such as when a user moves to a different web browser tab).
   
 <hr />
 
-## 11. <a name="selecting-items">Selecting Items</a>
+## 10. <a name="selecting-items">Selecting Items</a>
 
 * **onselect:** Runs when a user selects text from within a textarea or input element. 
 * **onselectionchange:** Runs when a user has a new selection (such as text selection).
   
 <hr />
 
-## 12. <a name="transitioning">Transitioning</a>
+## 11. <a name="transitioning">Transitioning</a>
 
 * **ontransitionstart:** Runs when a CSS transition begins.
 * **ontransitionend:** Runs when a CSS transition is over.
@@ -121,9 +115,18 @@
   
 <hr />
 
-## 13. <a name="window-handling">Window Handling</a>
+## 12. <a name="window-handling">Window Handling</a>
 
 (TODO)
+
+<hr />
+
+## 13. <a name="miscellaneous-event-handling">Miscellaneous Event Handling</a>
+  
+* **addEventListener:** Adds a listener for a specified event to an element.
+* **removeEventListener:** Deletes a specified listener from an element. 
+* **oncontextmenu:** Runs when a user right clicks on an element, opening the context menu.
+* **onerror:** Runs if an error happens (e.g., element fails to load).
 
 <hr />
 
@@ -135,4 +138,4 @@
   
 <hr />
 
-**TODO:** Fill in sections 8 and 13 with initial information.
+**TODO:** Fill in 'Window Handling' section with initial information.
