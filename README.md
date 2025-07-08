@@ -91,9 +91,12 @@
 <hr />
 
 ## 9. <a name="mobile-touching">Mobile Touching</a>
-
-(TODO)
-
+  
+* **ontouchstart:** Runs if a touch point is placed on a touch surface.
+* **ontouchmove:** Runs if a touch point is dragged across a touch surface.
+* **ontouchend:** Runs if a touch point is no longer/finished being on a touch surface.
+* **ontouchcancel:** Runs if a touch gesture is cancelled (such as when a user moves over to another app).
+  
 <hr />
 
 ## 10. <a name="page-visibility">Page Visibility</a>
@@ -132,4 +135,4 @@
   
 <hr />
 
-**TODO:** Fill in sections 8, 9, and 13 with initial information.
+**TODO:** Fill in sections 8 and 13 with initial information.
