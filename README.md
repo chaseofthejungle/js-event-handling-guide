@@ -117,7 +117,11 @@
 
 ## 12. <a name="window-handling">Window Handling</a>
 
-(TODO)
+* **onload:** Runs when a webpage has completed loading.
+* **onscroll:** Runs when a user scrolls on a webpage.
+* **onresize:** Runs when the browser window's size has been adjusted.
+* **onunload:** Runs when a user navigates away from ('unloads') a webpage.
+* **onbeforeunload:** Runs prior to a webpage being unloaded, confirming the user's navigation away from it.
 
 <hr />
 
@@ -135,7 +139,3 @@
 * *[Intro to MERN and MEAN Stack Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack)*
 * *[JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)*
 * *[Node.js JavaScript Runtime Environment Official Website](https://nodejs.org/en)*
-  
-<hr />
-
-**TODO:** Fill in 'Window Handling' section with initial information.
